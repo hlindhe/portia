@@ -1,6 +1,6 @@
 # Slyd requirements
 twisted==19.2.1
-pyOpenSSL==17.5.0
+pyOpenSSL==26.0.0
 service_identity==18.1.0
 requests>=2.20.0
 autobahn==18.3.1
